@@ -1,0 +1,55 @@
+# Editor folders
+.vscode/
+.idea/
+
+# Python/Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Machine-local path configuration
+.env
+*.local.json
+paths.local.*
+
+# Raw and processed video/data roots
+data/
+
+# Legacy pre-migration data root names
+Archive/
+Killifish-v2/
+Killifish-v2-encoded/
+YOSHIDAK-new/
+
+# DeepLabCut generated project state and model snapshots
+DeepLabCut/FishPose*/
+*.pt
+*.pth
+*.h5
+
+# Generated analysis outputs
+out_v*/
+out_bout*/
+hr_results*/
+results/
+
+# Large media and presentation exports
+*.avi
+*.AVI
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.mkv
+*.pptx
+
+# Local spreadsheets and binary artifacts
+*.xlsx
+
+# OS files
+.DS_Store
+._*
+Thumbs.db
