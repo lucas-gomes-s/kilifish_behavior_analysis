@@ -111,4 +111,4 @@ If the data lives somewhere else, set `KILIFISH_ROOT` or one of the path variabl
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
