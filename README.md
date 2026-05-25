@@ -108,7 +108,3 @@ python scripts/overlays/render_bout_overlay.py --input video.mp4 --dlc pose.csv 
 ```
 
 If the data lives somewhere else, set `KILIFISH_ROOT` or one of the path variables listed above.
-
-## GitHub Notes
-
-Before pushing publicly, choose and add a license. No license is included yet because that decision should match the intended sharing terms for the data and code.
